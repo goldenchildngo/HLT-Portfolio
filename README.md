@@ -22,3 +22,9 @@ Python is the most widely used language for text processing, which is one of the
 In this assignment, I learned how to write effective comments for Python code, how to use regex in Python, and I refreshed my memory on Python syntax. I also used Pickle for the first time.
 
 [See code](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_1/component_1.py)
+
+## Assignment 2
+
+Using NLTK to download and tokenize text, as well as demonstrating the differences between stemming text and lemmatizing it.
+
+[See notebook](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_2/component_2.ipynb)
