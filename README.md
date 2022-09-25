@@ -28,3 +28,9 @@ In this assignment, I learned how to write effective comments for Python code, h
 Using NLTK to download and tokenize text, as well as demonstrating the differences between stemming text and lemmatizing it.
 
 [See notebook](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_2/component_2.ipynb)
+
+## Assignment 4
+
+Explore the uses and features of WordNet and SentiWordNet
+
+[See notebook](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_4/component_4.ipynb)
