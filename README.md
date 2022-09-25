@@ -29,6 +29,12 @@ Using NLTK to download and tokenize text, as well as demonstrating the differenc
 
 [See notebook](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_2/component_2.ipynb)
 
+## Assignment 3
+
+Use NLTK to process a large body of text into a set of lemmatized nouns. Find the 50 most frequent nouns, select one at random, and play a guessing game
+
+[See notebook](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_3/component_3.ipynb)
+
 ## Assignment 4
 
 Explore the uses and features of WordNet and SentiWordNet
