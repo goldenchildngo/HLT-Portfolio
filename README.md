@@ -40,3 +40,10 @@ Use NLTK to process a large body of text into a set of lemmatized nouns. Find th
 Explore the uses and features of WordNet and SentiWordNet
 
 [See notebook](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_4/component_4.ipynb)
+
+## Assignment 5
+
+Program 1 trains an n-gram model to identify what language (out of English, French, and Italian) on a given corpus of labled text and pickles it.
+Program 2 unpickles the model and uses it to identify the language of unlabled sentences.
+
+[See program files](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_5)
