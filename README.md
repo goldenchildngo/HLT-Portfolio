@@ -47,3 +47,11 @@ Program 1 trains an n-gram model to identify what language (out of English, Fren
 Program 2 unpickles the model and uses it to identify the language of unlabled sentences.
 
 [See program files](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_5)
+
+## Assignment 6
+
+Program crawls all urls from a starter url and scrapes every page into files. The program then cleans the text in the files and outputs the cleaned text into new files. Finally, the program uses tf-idf to judge the importance of every word in the combined corpus. The top 30 are shown to the user as suggested key terms. The user then manually writes in the top 10 key terms. For each key term, every sentence containing that term from the corpus is added to a list. The key term and the list are then added to a dictionary that will form a knowledge base for a future chatbot. The dictionary is pickled.
+
+[See code](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_6/Homework6_pbp180000_and_kxn180023.py)
+
+[See report](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_6/Hmwk6_writeup_pbp180000__kxn180023.docx)
