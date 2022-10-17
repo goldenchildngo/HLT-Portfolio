@@ -55,3 +55,9 @@ Program crawls all urls from a starter url and scrapes every page into files. Th
 [See code](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_6/Homework6_pbp180000_and_kxn180023.py)
 
 [See report](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_6/Hmwk6_writeup_pbp180000__kxn180023.docx)
+
+## Assignment 7
+
+An investigation of sentence parsing methods.
+
+[See report](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_7/Component 7.pdf)
