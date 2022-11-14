@@ -1,0 +1,8 @@
+# Dependencies
+
+- pip3 install spacy ipython spacytextblob bs4
+- python3 -m spacy download en_core_web_lg
+
+# Frequently Encountered Errors
+
+- If trying to use displacy.serve on macOS, disable AirPlay as the service uses port 5000, which is required by displacy

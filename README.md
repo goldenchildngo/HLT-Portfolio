@@ -66,3 +66,9 @@ An investigation of sentence parsing methods.
 
 Using NLP to predict the author of different works from the Federalist Papers.
 [See report](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/author_attribution/author_attribution.ipynb)
+
+## ACL Paper Summary
+[See paper](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/ACL_Paper_Summary_pbp180000_and_kxn180023)
+
+## Chatbot
+[See project](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/chatbot)
