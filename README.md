@@ -61,3 +61,8 @@ Program crawls all urls from a starter url and scrapes every page into files. Th
 An investigation of sentence parsing methods.
 
 [See report](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/component_7/Component_7.pdf)
+
+## Author Attribution
+
+Using NLP to predict the author of different works from the Federalist Papers.
+[See report](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/author_attribution/author_attribution.ipynb)
