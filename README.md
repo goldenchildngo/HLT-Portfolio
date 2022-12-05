@@ -72,3 +72,6 @@ Using NLP to predict the author of different works from the Federalist Papers.
 
 ## Chatbot
 [See project](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/chatbot)
+
+## Text Classification
+[See report](https://github.com/goldenchildngo/HLT-Portfolio/blob/main/text_classification_pbp180000_and_kxn180023.ipynb.pdf)
